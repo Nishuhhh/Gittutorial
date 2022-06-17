@@ -1,1 +1,1 @@
-console.log('i love git')git 
+console.log('i love git');
